@@ -134,11 +134,16 @@ pip install -r requirements.txt
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{wang2025had,
-  title={HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation},
-  author={Wang, Cheng and Kong, Lingxin and Tamborski, Massimiliano and Albrecht, Stefano V},
-  journal={arXiv preprint arXiv:2503.15049},
-  year={2025}
+@article{WANG2025108270,
+title = {HAD-Gen: Human-like and diverse driving behavior modeling for controllable scenario generation},
+journal = {Accident Analysis & Prevention},
+volume = {223},
+pages = {108270},
+year = {2025},
+issn = {0001-4575},
+doi = {https://doi.org/10.1016/j.aap.2025.108270},
+url = {https://www.sciencedirect.com/science/article/pii/S0001457525003586},
+author = {Cheng Wang and Lingxin Kong and Massimiliano Tamborski and Stefano V. Albrecht},
 }
 ```
 
