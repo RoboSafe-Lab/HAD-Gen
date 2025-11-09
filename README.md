@@ -111,8 +111,8 @@ Set these parameters in `simulator/lightweight_simulator.py`:
 ### Installation
 
 ```bash
-# Install project in development mode
-pip install -e .
+# Install the 'gym_env' package in development mode
+pip install -e simulator/gym_env
 
 # Install PyTorch (from official website)
 # Install additional requirements
